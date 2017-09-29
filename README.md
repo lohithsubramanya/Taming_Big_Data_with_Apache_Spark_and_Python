@@ -2,3 +2,4 @@
 
 * 1 - Ratings Histogram
 * 2 - Friends by age
+* 3 - Minimum Temperatures
