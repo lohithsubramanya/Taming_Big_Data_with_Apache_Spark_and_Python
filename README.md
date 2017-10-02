@@ -5,3 +5,4 @@
 * 3 - Minimum Temperatures
 * 4 - Maximum Temperatures
 * 5 - Word Count
+* 6 - Word Count Better
