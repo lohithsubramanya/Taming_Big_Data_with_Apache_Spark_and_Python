@@ -6,3 +6,4 @@
 * 4 - Maximum Temperatures
 * 5 - Word Count
 * 6 - Word Count Better
+* 7 - Word Count Better Sorted
