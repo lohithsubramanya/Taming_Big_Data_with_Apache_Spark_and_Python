@@ -7,3 +7,4 @@
 * 5 - Word Count
 * 6 - Word Count Better
 * 7 - Word Count Better Sorted
+* 8 - Assignment Problem - 1
