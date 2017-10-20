@@ -15,3 +15,4 @@
 * 13 - Superheroes degrees of seperation
 * 14 - Movie similarities using cluster manager
 * 15 - Movie similarities 1M
+* 16 - SparkSQL
