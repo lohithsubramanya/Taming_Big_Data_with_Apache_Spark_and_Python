@@ -17,3 +17,4 @@
 * 15 - Movie similarities 1M
 * 16 - SparkSQL
 * 17 - Using Dataframe instead of RDD
+* 18 - Alternating Least Squares - Movie Recommendation
